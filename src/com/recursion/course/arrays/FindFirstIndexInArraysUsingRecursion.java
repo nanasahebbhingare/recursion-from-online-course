@@ -1,4 +1,4 @@
-package com.recursion.course.arraysandstring;
+package com.recursion.course.arrays;
 
 /**
  * FindFirstIndexInArraysUsingRecursion
